@@ -1,6 +1,6 @@
 # 🤖 Artificial Intelligence — 4th Semester Labs
 
-> **BS Data Science | FAST-NUCES | Fall 2024**  
+> **BS Data Science | Fall 2024**  
 > Search Algorithms • Game AI • Evolutionary Computing • Machine Learning
 
 ---
